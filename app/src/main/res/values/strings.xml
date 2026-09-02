@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dadealbit 知乎提取</string>
+    <string name="status_login_hint">请用浏览器登录知乎后复制链接回来</string>
+    <string name="status_logging_in">请登录知乎（扫码）…</string>
+    <string name="status_logged_in">已登录，可以开始提取</string>
+    <string name="hint_url">粘贴知乎文章/回答链接（每行一个）</string>
+    <string name="btn_extract">开始提取</string>
+    <string name="btn_relogin">重新登录</string>
+    <string name="cb_pdf">同时生成 PDF（静默渲染，不弹界面）</string>
+    <string name="step_idle">等待操作</string>
+    <string name="disclaimer">本工具仅供个人备份使用，请勿用于商业抓取或大规模采集。新账号易触发知乎风控，建议用使用较久的老账号；批量提取已自动间隔随机休眠。</string>
+</resources>
